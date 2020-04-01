@@ -1,6 +1,6 @@
 # Questions for Engineering Leaders
 
-Good answers to these questions will help an engineering team deliver on its purpose.
+Good answers to these questions will help an engineering team deliver on its purpose. These questions suggest guideliness appropriate for a Series A company in a non-regulated industry.
 
 ## Team
 
