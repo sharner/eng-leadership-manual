@@ -82,13 +82,15 @@ Use OKRs for:
 
 ## Operations
 
-* Are all services monitored?
+* Are services monitored?
 
 * Are logs searchable?
 
 * Are services protected?
 
 * Are secrets protected?
+
+* Can services be deployed individually without downtime?
 
 * Is there an incident response runbook?
 
