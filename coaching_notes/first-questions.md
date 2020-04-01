@@ -90,6 +90,8 @@ Use OKRs for:
 
 * Are secrets protected?
 
+* Are appropriate and required operational controls followed?
+
 * Can services be deployed individually without downtime?
 
 * Is there an incident response runbook?
@@ -108,13 +110,17 @@ Use OKRs for:
 
 ## Architecture
 
-* Are there architectural and design review?
+* Are there architectural, security, and design reviews?
 
 * Is the system architectural diagram up to date?
 
 * Are architectural documents versioned and in text/markdown?
 
 * Is the system modular and decoupled?
+
+* Are end-points secure?
+
+* Is PII encrypted in flight and at rest?
 
 * Is there an architectural and tech debt roadmap?
 
