@@ -113,3 +113,5 @@ Use OKRs for:
 [Principles of Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/)
+
+[Agile Estimation and Planning](https://www.amazon.com/Agile-Estimating-Planning-Robert-Martin-ebook/dp/B004X1D3TC)
