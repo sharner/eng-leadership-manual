@@ -102,13 +102,17 @@ Use OKRs for:
 
 * Is the customer at the table? i.e. does the team reflect on the customer when making decisions? How is the customer voice heard in the organization?
 
-* Is there status page displaying any service interruptions in service?
+* Is there status page displaying interruptions in service?
 
 * Are RCAs shared with key stakeholders, including customers?
 
 ## Architecture
 
-* Are there architectural and design reviews of documents?
+* Are there architectural and design review?
+
+* Is the system architectural diagram up to date?
+
+* Are architectural documents versioned and in text/markdown?
 
 * Is the system modular and decoupled?
 
