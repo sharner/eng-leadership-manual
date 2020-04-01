@@ -14,21 +14,21 @@ Good answers to these questions will help an engineering team deliver on its pur
 
 ## Hiring
 
-* What does roles will be needed in 12 months?
+* What roles will be needed in 12 months?
 
 * How much lead time will you need for each hire?
 
-* Do you have a consistent and documented process for hiring, including source, interviewing, and offers?
+* Do you have a consistent and documented process for hiring, including sourcing, interviewing, offers, and closing?
 
 * Does each new hire update the onboarding document?
 
 ## Goal setting
 
-* What are the top OKRs for the organization for the next quarter?
+* What are the top OKRs for the company for the next quarter?
 
-* How do your OKRs support the organizational goals?
+* How do your OKRs support the company OKRs?
 
-* Do you set OKRs for you team and review these questions recursively?
+* Do you set OKRs for you team and review them to down and across the team?
 
 Use OKRs for:
 
@@ -92,7 +92,17 @@ Use OKRs for:
 
 * Is there an incident response runbook?
 
-* Is someone on call responding to alerts?
+* Is someone on-call responding to alerts?
+
+* Is there an RCA process?
+
+## Customer Success
+
+* Is the customer at the table? i.e. does the team reflect on the customer when making decisions? How is the customer voice heard in the organization?
+
+* Is there status page displaying any service interruptions in service?
+
+* Are RCAs shared with key stakeholders, including customers?
 
 ## Architecture
 
