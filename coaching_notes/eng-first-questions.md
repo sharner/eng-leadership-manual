@@ -1,6 +1,8 @@
 # Questions for Engineering Leaders
 
-Good answers to these questions will help an engineering team deliver on its purpose. These questions suggest guideliness appropriate for a Series A company in a non-regulated industry.
+Good answers to these questions will help an engineering team deliver on its purpose. These questions suggest guideliness appropriate for a Series A company in a lightly-regulated industry.
+
+These questiosn aren't appropriate for everyone or every stage of the company, but they are a good list of practices I've used over the years in enterprise or SMB SaaS.
 
 ## Team
 
@@ -21,6 +23,10 @@ Good answers to these questions will help an engineering team deliver on its pur
 * Do you have a consistent and documented process for hiring, including sourcing, interviewing, offers, and closing?
 
 * Does each new hire update the onboarding document?
+
+* Who are the referral magnets?
+
+* Do you proactively solicit referrals from new hires?
 
 ## Goal setting
 
@@ -96,6 +102,8 @@ Use OKRs for:
 
 * Is there an incident response runbook?
 
+* Is there a runbook for a suspected data leak or breach?
+
 * Is someone on-call responding to alerts?
 
 * Is there an RCA process?
@@ -107,6 +115,22 @@ Use OKRs for:
 * Is there status page displaying interruptions in service?
 
 * Are RCAs shared with key stakeholders, including customers?
+
+* How is customer success involved in product and engineering decisions?
+
+* How are product and engineering involved in customer success?
+
+## Feedback 
+
+* Can users submit feedback?
+
+* How is customer feedback synthesized?
+
+* Is customer usage tracked and correlated to value?
+
+* What is the Net Promoter Score?
+
+* Do some customers get preferential treatment?
 
 ## Architecture
 
@@ -125,6 +149,62 @@ Use OKRs for:
 * Is there an architectural and tech debt roadmap?
 
 * Is the team given time to refactor and work on debt?
+
+* What are the replicatable units that allow the system to scale without bottlenecks? Express you system in `O` notation, e.g. `O(users)`, `O(traffic)`, `O(data)`.
+
+* Can you detect, flatten, or autoscale spikes?
+
+* What are the single points of failure with respect to a single customer?
+
+* What is the blast radius affecting all customers?
+
+## Culture
+
+* Do you do self-directed hackathons or other things to allow people (not just engineers) to explore and showcase their ideas?
+
+* How do different teams express their support and respect for each other?
+
+* Do people know and live the company values?
+
+* Are there regular team demos, show-casing recent work?
+
+* Are there "book clubs", "brown bag lunches", or other group activities for learning?
+
+* How do people mentor each teach each other?
+
+* Do performance reviews help or hurt? Who gets value from them?
+
+* In meetings, who does the talking?
+
+* Is leadership and decisions command and control, consensus, partnership, or empowerment based?
+
+* Who would describe the team as "agile"?
+
+## Deadlines
+
+* How are deliverables committed?
+
+* How are risks raised and mitigated?
+
+* How are cross-team dependencies tracked and managed? Are there in person forums with all stakeholders? How are decisions that affect multiple teams made?
+
+* Is status tracked regularly and is there a dashboard of with deliverable dates coded red, yellow, green?
+
+* Are deliverables tracked at the epic-level in customer centric language?
+
+## Releases
+
+* Is there a release train and how often does it leave?
+
+* Are builds blue-green?
+
+* Can features go in dark?
+
+* Can users opt in and out of major changes?
+
+* Can product managers flip feature flags? Is there a system for the lifecycle of feature flags?
+
+* Are releases rolled out incrementally to reduce risk?
 
 ## References
 
